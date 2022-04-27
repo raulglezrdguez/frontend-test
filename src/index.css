@@ -5,7 +5,13 @@ Variables
 */
 
 :root {
-  --slack-color: #3f0f40;
+  --slack-white: #fff;
+  --slack-back: #1d1d1d;
+  --slack-aubergine: #4a154b;
+  --slack-blue: #36c5f0;
+  --slack-green: #2eb67d;
+  --slack-yellow: #ecb22e;
+  --slack-red: #e01e5a;
 }
 
 * {
